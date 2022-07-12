@@ -1,0 +1,14 @@
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\bin\Debug\netcoreapp3.1\StringFromListWithVars.exe
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\bin\Debug\netcoreapp3.1\StringFromListWithVars.deps.json
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\bin\Debug\netcoreapp3.1\StringFromListWithVars.runtimeconfig.json
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\bin\Debug\netcoreapp3.1\StringFromListWithVars.runtimeconfig.dev.json
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\bin\Debug\netcoreapp3.1\StringFromListWithVars.dll
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\bin\Debug\netcoreapp3.1\StringFromListWithVars.pdb
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\obj\Debug\netcoreapp3.1\StringFromListWithVars.csproj.AssemblyReference.cache
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\obj\Debug\netcoreapp3.1\StringFromListWithVars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\obj\Debug\netcoreapp3.1\StringFromListWithVars.AssemblyInfoInputs.cache
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\obj\Debug\netcoreapp3.1\StringFromListWithVars.AssemblyInfo.cs
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\obj\Debug\netcoreapp3.1\StringFromListWithVars.csproj.CoreCompileInputs.cache
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\obj\Debug\netcoreapp3.1\StringFromListWithVars.dll
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\obj\Debug\netcoreapp3.1\StringFromListWithVars.pdb
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\obj\Debug\netcoreapp3.1\StringFromListWithVars.genruntimeconfig.cache
