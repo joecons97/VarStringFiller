@@ -1,0 +1,2 @@
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\bin\publish\StringFromListWithVars.pdb
+C:\Users\constjos\source\repos\StringFromListWithVars\StringFromListWithVars\bin\publish\StringFromListWithVars.exe
